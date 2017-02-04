@@ -18,9 +18,9 @@ The companion uses Firebase as a middleware to interface with the Things app.
 https://www.youtube.com/watch?v=Z-TDwr_Ba4o
 
 ## Note:
-The Things app is controlling `Pin 12(BCM 18)` on the Raspberry Pi 3. Adjust accordingly for your board. You will also need to add
+The Things app is controlling `Pin 12(BCM 18)` on the Raspberry Pi 3. Adjust accordingly for your board. You will also need to 
 
-`google-services.json` from your Firebase project to `$PROJECT_ROOT/app/` and `$PROJECT_ROOT/ledswitch/`.
+add `google-services.json` from your Firebase project to `$PROJECT_ROOT/app/` and `$PROJECT_ROOT/ledswitch/`.
 
 
 ## Read more
