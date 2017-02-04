@@ -1,7 +1,5 @@
 # BlinkLED
-This project uses your Android device to control the LED on Androidthings running on Raspbery Pi 3. This is a **very** simple project and
-
-very rough around the edges. It is meant for prototyping a "virtual button" running on the cloud(aka cloud button). 
+This project uses your Android device to control the LED on Androidthings running on Raspbery Pi 3. This is a **very** simple project and very rough around the edges. It is meant for prototyping a "virtual button" running on the cloud(aka cloud button). 
 
 ## How it works
 
@@ -10,9 +8,7 @@ There are 2 modules for this project.
 1. Things app
 2. Companion app
 
-Companion app is a very simple app running on your Android phone/tablet with a button to control the LED wired to your Things app. 
-
-The companion uses Firebase as a middleware to interface with the Things app.
+Companion app is a very simple app running on your Android phone/tablet with a button to control the LED wired to your Things app. The companion uses Firebase as a middleware to interface with the Things app.
 
 ## Video
 https://www.youtube.com/watch?v=Z-TDwr_Ba4o
